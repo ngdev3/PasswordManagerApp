@@ -58,7 +58,7 @@
     "es6-promise-plugin": "4.2.2",
     "ionic-tooltips": "^4.0.0-beta.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "onesignal-cordova-plugin": "2.8.4",
     "rxjs": "^6.5.4",
     "tslib": "^1.9.0",
